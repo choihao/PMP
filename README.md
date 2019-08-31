@@ -6,6 +6,7 @@ choihao
 铜牌  Top7%   184/2749
 ![](https://github.com/choihao/PMP/blob/master/finalrank.PNG)
 ![](https://github.com/choihao/PMP/blob/master/rank.PNG)  
+排行榜：https://www.kaggle.com/c/champs-scalar-coupling/leaderboard  
 
 数据集：  
 >>data-of-distance-qm9-giba Notebook数据集：  
